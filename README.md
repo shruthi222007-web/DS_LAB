@@ -1,2 +1,1 @@
-# DS_LAB
-DS LABORATOR
+# data-structure
